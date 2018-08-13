@@ -23,6 +23,7 @@ ln -s .nvim/.tmux.conf.local .tmux.conf.local
 
 
 * installer zsh : sudo apt install zsh
+* faire de zsh le terminal par défaut : chsh -s `which zsh`
 * installer autojump : sudo apt install autojump
 * installer nvim : sudo apt install neovim
 * installer tmux
