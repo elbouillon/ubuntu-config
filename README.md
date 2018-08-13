@@ -28,8 +28,10 @@ ln -s .config/nvim/.tmux.conf .tmux.conf
 
 ln -s .config/nvim/.tmux.conf.local .tmux.conf.local
 
-* installer zsh : sudo apt install zsh
 * faire de zsh le terminal par défaut : chsh -s `which zsh`
+* installer zsh : sudo apt install zsh
+* installer pip3 : sudo apt install python3-pip
+* mettre à jour neovim-python : sudo pip3 install --upgrade neovim
 * sortir de la session et se reconnecter
 * lancer vim et installer les plugins : plugInstall
 * installer autojump : sudo apt install autojump
