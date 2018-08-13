@@ -6,6 +6,12 @@ Etapes de configuration de mon ubuntu
 * installation de chrome (plus rapide pour aller sur gmail, mais c'est tout ;-))
 * ajouter my clef publique à github (https://github.com/settings/keys)
 * install git : sudo apt install git
+* configurer git : 
+
+git config --global user.email "mickael.kurmann@gmail.com"
+git config --global user.name "Mickael Kurmann"
+
+
 * installer powerline font : sudo apt-get install fonts-powerline
 * cloner https://github.com/elbouillon/nvim dans mon home : git clone git@github.com:elbouillon/nvim.git ~/.nvim
 
