@@ -37,3 +37,4 @@ ln -s .config/nvim/.tmux.conf.local .tmux.conf.local
 * installer autojump : sudo apt install autojump
 * installer nvim : sudo apt install neovim
 * installer tmux
+* installer docker : https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce
