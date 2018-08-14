@@ -38,3 +38,6 @@ ln -s .config/nvim/.tmux.conf.local .tmux.conf.local
 * installer nvim : sudo apt install neovim
 * installer tmux
 * installer docker : https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce
+
+* problèmes de bluetooth résolus!
+https://medium.com/@overcode/fixing-bluetooth-in-ubuntu-pop-os-18-04-d4b8dbf7ddd6
