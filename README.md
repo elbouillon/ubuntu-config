@@ -44,7 +44,11 @@ https://medium.com/@overcode/fixing-bluetooth-in-ubuntu-pop-os-18-04-d4b8dbf7ddd
 
 # Personnalisation
 
-Super theme de couleur pour tout (vim, terminal, tmux) : gruvbox!
-Pour installer des themes de terminal : https://github.com/Mayccoll/Gogh
-Pour vim : https://vimawesome.com/plugin/gruvbox
-Police un peu spéciale, mais rigolote : https://github.com/belluzj/fantasque-sans
+* Super theme de couleur pour tout (vim, terminal, tmux) : gruvbox!
+* Pour installer des themes de terminal : https://github.com/Mayccoll/Gogh
+* Pour vim : https://vimawesome.com/plugin/gruvbox
+* Police un peu spéciale, mais rigolote : https://github.com/belluzj/fantasque-sans
+
+* theme d'icons pour cinnamon
+* sudo add-apt-repository -u ppa:snwh/ppa
+* sudo apt-get install paper-icon-theme
