@@ -13,7 +13,7 @@ git config --global user.name "Mickael Kurmann"
 
 
 * installer powerline font : sudo apt-get install fonts-powerline
-* cloner https://github.com/elbouillon/nvim dans mon home : git clone git@github.com:elbouillon/nvim.git ~/.nvim
+* cloner https://github.com/elbouillon/nvim dans mon home : git clone git@github.com:elbouillon/nvim.git ~/.config/nvim
 
 * installer tmux : sudo apt install tmux
 * installer curl : sudo apt install curl
