@@ -17,6 +17,7 @@ git config --global user.name "Mickael Kurmann"
 
 * installer tmux : sudo apt install tmux
 * installer curl : sudo apt install curl
+* installer zsh : sudo apt install zsh
 * installer yarn : https://yarnpkg.com/lang/en/docs/install/#debian-stable
 * installer oh-my-zsh : sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
