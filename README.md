@@ -8,8 +8,7 @@ Etapes de configuration de mon ubuntu
 * install git : sudo apt install git
 * configurer git : 
 
-git config --global user.email "mickael.kurmann@gmail.com"
-git config --global user.name "Mickael Kurmann"
+git config --global user.email "mickael.kurmann@gmail.com" && git config --global user.name "Mickael Kurmann"
 
 
 * installer powerline font : sudo apt-get install fonts-powerline
