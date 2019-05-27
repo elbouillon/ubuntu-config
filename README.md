@@ -1,4 +1,4 @@
-# ubuntu-config
+# Linux config
 Etapes de configuration de mon ubuntu
 
 * installation de gnome-tweak-tools pour activer le capslock -> ctrl
@@ -37,6 +37,13 @@ ln -s .config/nvim/.tmux.conf.local .tmux.conf.local
 * installer autojump : sudo apt install autojump
 * installer tmux
 * installer docker : https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce
+
+
+## Manjaro
+
+Problème avec la mauvaise heure : https://wiki.manjaro.org/index.php?title=System_Time_Setting
+
+## Ubuntu
 
 * problèmes de bluetooth résolus!
 https://medium.com/@overcode/fixing-bluetooth-in-ubuntu-pop-os-18-04-d4b8dbf7ddd6
